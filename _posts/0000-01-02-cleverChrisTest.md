@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+###YOUR TEXT!
+**More trees and more microphytes!**
 Use the left arrow to go back!
